@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pita_ChatBot", "Pita_ChatBot\Pita_ChatBot.pyproj", "{923C6AE5-F2EC-49D0-BBBD-CC0A4FDD06A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{923C6AE5-F2EC-49D0-BBBD-CC0A4FDD06A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923C6AE5-F2EC-49D0-BBBD-CC0A4FDD06A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A98E307F-866A-48AE-8804-37211391D9C0}
+	EndGlobalSection
+EndGlobal
