@@ -260,3 +260,7 @@ paket-files/
 __pycache__/
 *.pyc
 /Pita_ChatBot/env
+
+# Custom
+config.py
+pita_db.sqlite3
