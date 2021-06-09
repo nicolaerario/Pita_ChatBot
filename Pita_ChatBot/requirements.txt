@@ -7,7 +7,7 @@ idna==2.7
 mathparse==0.1.2
 nltk==3.4.5
 oauthlib==2.1.0
-pip==18.1
+pip==19.2
 pymongo==3.7.2
 python-dateutil==2.7.5
 python-twitter==3.4.2
